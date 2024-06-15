@@ -1,0 +1,24 @@
+p.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bolder ;
+    font-style: inherit ;
+    text-decoration: underline overline solid red;
+    color: rgb(100,150, 30);
+}
+
+p.content{
+    text-transform: uppercase ;
+    text-align: justify ;
+    text-indent: 30px ;
+    color: #EB9040;
+    background-color: rgba(230, 30, 10,0.8);
+}
+
+div.box{
+    height: 400px;
+    border: 2px solid black ;
+    background: rgba(0,0,0,0.5) url(../img/EofuTa42mfBXgFqVWHnGXV.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

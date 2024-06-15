@@ -1,0 +1,15 @@
+
+.imagecom{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.col-3{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.col-3:hover{
+    padding: 0;
+}

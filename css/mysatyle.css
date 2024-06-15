@@ -1,0 +1,25 @@
+div{
+    width: 400px;
+     height: 400px;
+}
+.div1{
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+    float: left;
+}
+.div2{
+    background-color: aqua;
+    float: left;
+    color: white;
+    padding: 20px;
+    margin: 10px 10px 10px 0;
+    /* top right button left , margin-top 10px;*/
+}
+.div3{
+    background-color: blue;
+    float: right;
+    padding: 20px;
+    margin-top: 20px;
+     /* top right button left , margin-top 10px;*/
+}

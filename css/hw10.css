@@ -1,0 +1,12 @@
+.bg{
+    background-color: rgb(190, 186, 186);
+    width: 100%;
+}
+.background{
+    background-color: lightgray;
+}
+
+.colorwhite{
+    background-color: white;
+    color: green;
+}

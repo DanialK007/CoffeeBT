@@ -1,0 +1,7 @@
+.nav-item:hover{
+    background-color: aliceblue;
+
+}
+.nav-item:hover .nav-link{
+    color: blue
+}
